@@ -29,4 +29,4 @@ What things you need to install the software and how to install them
 
 ## Built With
 
-* [ReactNative](https://reactjs.org/) - The JS web library front-end used
+* [ReactNative](https://reactnative.dev/) - The JS web library front-end used
